@@ -1,0 +1,11 @@
+
+##' .. content for \description{} (no empty lines) ..
+##'
+##' .. content for \details{} ..
+##' @title impa
+##' @param x a number
+##' @return 
+##' @author Tao Liu
+impa <- function(x){
+    x^2
+}
